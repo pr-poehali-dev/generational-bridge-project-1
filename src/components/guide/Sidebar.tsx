@@ -74,7 +74,7 @@ export function Sidebar({ activeChapter, sidebarOpen, setSidebarOpen, goTo }: Si
           </nav>
         </div>
         <div className="p-4 border-t" style={{ borderColor: "hsl(38, 22%, 86%)" }}>
-          <p className="text-xs text-center" style={{ color: "hsl(25, 15%, 62%)" }}>2024 · Проект «Вместе»</p>
+          <p className="text-xs text-center" style={{ color: "hsl(25, 15%, 62%)" }}>Методическое пособие</p>
         </div>
       </aside>
 
